@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/2059299/table-valued-functions-in-oracle-11g-parameterized-views
